@@ -1,2 +1,4 @@
 # repo-demo
-just learning git github skills
+Just learning git and github skills
+<br>
+Demo project
